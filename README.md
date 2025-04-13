@@ -5,6 +5,10 @@ Observational Dataset:
 
 The gathered observational data from previous studies can be found in the "observational_studies.csv" file. The titles and authors of these papers can be found within.
 
+Extrapolated Emissions:
+
+'mp_emiss_extrapolate.py' was used to extrapolate the microplastic emissions down to smaller size bins, using the 'emissions_UKESM.npy' file.
+
 Main Figures & Tables:
 
 Figure 1 was created using the "mp_emissions.nc" file.
