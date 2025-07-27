@@ -3,23 +3,25 @@ Data used in the journal manuscript 'Description and evaluation of airborne micr
 
 Observational Dataset:
 
-The gathered observational data from previous studies can be found in the "observational_studies.csv" file. The titles and authors of these papers can be found within.
+The gathered observational data from previous studies can be found in the "observational_studies.csv" and "observational_studies_nanoplastics.csv" files. The titles and authors of these papers can be found within.
 
 Extrapolated Emissions:
 
-'mp_emiss_extrapolate.py' was used to extrapolate the microplastic emissions down to smaller size bins, using the 'emissions_UKESM.npy' file.
+'mp_emiss_extrapolate.py' was used to extrapolate the microplastic emissions down to smaller size bins.
 
 Main Figures & Tables:
 
 Figure 1 was created using the "mp_emissions.nc" file.
 
-Figure 2 was created using the "mp_surface_concentrations.nc" file.
+Figure 2 was created using the "mp_surface_concentration.nc" file.
 
-Figure 3 was created using the "mp_vertical_concentrations_insoluble.nc" file.
+Figure 3 was created using the "mp_vertical_concentrations_fragments_insoluble.nc" file.
 
-Figure 4 was created using the "mp_vertical_concentrations_soluble.nc" file.
+Figure 4 was created using the "mp_vertical_concentrations_fragments_soluble.nc" file.
 
-Figure 5 was created using the "observation_model_active.csv" file for subplots (a) and (c), and the "observation_model_deposition.csv" file for subplots (b) and (d). The "ocean_mask.npy" and "land_mask.npy" files were used to generate the ocean/land mask. 
+Figure 5 was created using the "mp_vertical_concentrations_fibres.nc" file.
+
+Figure 6 was created using the "observation_model_active.csv" file for subplots (a) and (c), and the "observation_model_deposition.csv" file for subplots (b) and (d). The "ocean_mask.npy" and "land_mask.npy" files were used to generate the ocean/land mask. 
 
 Table 2 was created using the averages from the "mp_mass_concentration_insoluble.nc", "mp_number_concentration_insoluble.nc", "mp_mass_number_concentration_soluble.nc" and "mp_fibres_concentration.nc" files, also used to plot Appendix Figures 2 - 5.
 
