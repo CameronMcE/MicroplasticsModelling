@@ -31,7 +31,7 @@ Table 4 was created using the "mp_total_aerosol_concentrations.nc" file.
 
 Appendix Figures & Tables:
 
-Appendix Figure 1 was created using the "mp_extrapolate.nc" file.
+Appendix Figure 1 was created using the "mp_extrapolate_alpha_1.81.nc" and "mp_extrapolate_alpha_1.07.nc" files.
 
 Appendix Figures 2 - 5 were created using the files "mp_mass_concentration_insoluble.nc", "mp_number_concentration_insoluble.nc", "mp_mass_number_concentration_soluble.nc" and "mp_fibres_concentration.nc" files respectively.
 
