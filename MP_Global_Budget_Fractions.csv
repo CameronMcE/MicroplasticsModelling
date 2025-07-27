@@ -1,10 +1,12 @@
 Size Mode,Dry Deposition (%),Impaction Scavenging (%),Nucleation Scavenging (%)
-Aitken (Ins),93.6401,4.5946336,1.7652713
-Aitken (Sol),77.274086,11.580904,11.145011
-Accumulation (Ins),95.75774,4.2422695,0.0
-Accumulation (Sol),38.79458,10.299656,50.905777
-Coarse (Ins),88.89156,11.10844,0.0
-Coarse (Sol),67.59069,13.617974,18.791325
-Supercoarse (Ins),98.77709,1.2229096,0.0
-Fibres,99.157745,0.8422627,0.0
-Total,99.08458,0.91429234,0.0011268514
+Fragments Aitken (Ins),93.732864,4.551359,1.7157799
+Fragments Aitken (Sol),76.80171,11.7819805,11.416315
+Fragments Accumulation (Ins),78.06605,21.933952,0.0
+Fragments Accumulation (Sol),38.143612,10.290159,51.566242
+Fragments Coarse (Ins),48.944664,51.055344,0.0
+Fragments Coarse (Sol),70.656624,13.929155,15.414216
+Fragments Supercoarse (Ins),60.49689,39.503098,0.0
+Fibres Coarse (Ins),30.435865,69.56413,0.0
+Fibres Coarse (Sol),61.717148,17.26613,21.016726
+Fibres Supercoarse (Ins),60.97831,39.02169,0.0
+Total,60.582054,39.332066,0.08587333

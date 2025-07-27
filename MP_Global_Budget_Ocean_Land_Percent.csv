@@ -1,7 +1,8 @@
 Size Mode,Dry Deposition Land Percentage,Dry Deposition Ocean Percentage,Impaction Scavenging Land Percentage,Impaction Scavenging Ocean Percentage,Nucleation Scavenging Land Percentage,Nucleation Scavenging Ocean Percentage,Total Deposition Land Percentage,Total Deposition Ocean Percentage
-Aitken,73.15,26.85,79.72,20.28,75.39,24.61,73.75,26.25
-Accumulation,73.77,26.23,79.47,20.53,78.17,21.83,75.87,24.13
-Coarse,70.0,30.0,85.81,14.19,76.28,23.72,72.54,27.46
-Supercoarse,68.63,31.37,92.76,7.24,,,68.93,31.07
-Fibres,57.91,42.09,82.67,17.33,,,58.12,41.88
-Total,59.9,40.1,85.18,14.82,76.41,23.59,60.13,39.87
+Fragment Aitken,73.35,26.65,78.45,21.55,75.3,24.7,73.82,26.18
+Fragment Accumulation,73.62,26.38,77.76,22.24,78.13,21.87,75.81,24.19
+Fragment Coarse,54.19,45.81,77.49,22.51,68.49,31.51,60.07,39.93
+Fragment Supercoarse,68.81,31.19,75.55,24.45,,,71.47,28.53
+Fibre Coarse,53.48,46.52,63.82,36.18,59.48,40.52,56.56,43.44
+Fibre Supercoarse,57.11,42.89,58.96,41.04,,,57.84,42.16
+Total,67.6,32.4,73.98,26.02,66.2,33.8,70.11,29.89
