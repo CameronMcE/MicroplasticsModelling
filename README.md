@@ -23,7 +23,7 @@ Figure 5 was created using the "mp_vertical_concentrations_fibres.nc" file.
 
 Figure 6 was created using the "observation_model_active.csv" file for subplots (a) and (c), and the "observation_model_deposition.csv" file for subplots (b) and (d). The "ocean_mask.npy" and "land_mask.npy" files were used to generate the ocean/land mask. 
 
-Table 2 was created using the averages from the "mp_mass_concentration_insoluble.nc", "mp_number_concentration_insoluble.nc", "mp_mass_number_concentration_soluble.nc" and "mp_fibres_concentration.nc" files, also used to plot Appendix Figures 2 - 5.
+Table 2 was created using the averages from the "mp_mass_concentration_insoluble.nc", "mp_number_concentration_insoluble.nc", "mp_concentration_soluble.nc" and "mp_fibres_concentration.nc" files, also used to plot Appendix Figures 2 - 5.
 
 Table 3 was created using the "MP_Global_Budget.csv" and "MP_Global_Budget_Fractions.csv" files. 
 
@@ -33,7 +33,7 @@ Appendix Figures & Tables:
 
 Appendix Figure 1 was created using the "mp_extrapolate_alpha_1.81.nc" and "mp_extrapolate_alpha_1.07.nc" files.
 
-Appendix Figures 2 - 5 were created using the files "mp_mass_concentration_insoluble.nc", "mp_number_concentration_insoluble.nc", "mp_mass_number_concentration_soluble.nc" and "mp_fibres_concentration.nc" files respectively.
+Appendix Figures 2 - 5 were created using the files "mp_mass_concentration_insoluble.nc", "mp_number_concentration_insoluble.nc", "mp_concentration_soluble.nc" and "mp_fibres_concentration.nc" files respectively.
 
 Appendix Figure 6 was created using the "AOD_CCN_CDNC.nc" file.
 
